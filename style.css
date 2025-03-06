@@ -7,6 +7,6 @@ box-sizing: border-box;
 .tela{
 background-color: blue;
 border: 10px solid red;
-height: 800px;
+height: 600px;
 width: 540px;
 }
